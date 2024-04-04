@@ -29,6 +29,7 @@
   align-items: center;
   hyphens: auto;
   word-spacing: auto;
+  text-align: justify;
   margin-bottom: 25px;
   overflow: auto;
 }
