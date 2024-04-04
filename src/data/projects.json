@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Ledger Billing",
+    "imageSrc": "projects/ledgerBilling.png",
+    "description": "A web application designed for small-scale businesses to efficiently manage their operations. It tracks customer and supplier details, records transactions, monitors due balances, and manages product inventory.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sql"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NayanThapaMagar/LedgerBilling"
+  },
+  {
+    "title": "Sajilo Lekha",
+    "imageSrc": "projects/sajiloLekha.png",
+    "description": "An advanced version of Ledger Billing, this application enhances business management by generating income statements and balance sheets. It offers comprehensive financial insights for informed decision-making.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Mongoose"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/rishikeshkhakurel/sajilo-lekha-backend"
+  },
+  {
+    "title": "Digital Nagarpalika",
+    "imageSrc": "projects/digitalNagarpalika.png",
+    "description": "Digital Palika is for management of municipal activities, It maintains digital profiles, encompassing personal, educational, and professional information. It facilitates administrative tasks and  monitors development activities.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ghimiresaurav/digital-palika-server"
+  }
+]
